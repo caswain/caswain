@@ -5,7 +5,7 @@
    
 I am a current trainee at the University of Alabama at Birmingham (UAB) Medical Scientist Training Program (MSTP). As a MD-PhD Graduate Trainee in the Graduate Biomedical Science (GBS) program at UAB, I study the role of T cell tumor immunity in breast cancer under the mentorship of Lalita Samant, PhD. You can learn more about our research work and lab here: https://sites.uab.edu/lsamant/
 
-I am also a cancer bioinformatician in training. This website serves as my portfolio for my current projects in data science, as well as a resource for those looking to get started with bioinformatics. I am also eager to learn more and to collaborate, so feel free to reach out to inquire about potential collaborative projects, questions, or tips!
+I am also a cancer bioinformatician-in-training. This readne serves as my portfolio for my current projects in data science, as well as a resource for those looking to get started with bioinformatics. I am also eager to learn more and to collaborate, so feel free to reach out to inquire about potential collaborative projects, questions, or tips!
 
  - Why I Code
    
