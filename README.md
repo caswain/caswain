@@ -13,7 +13,7 @@ It is becoming more obvious that there is a growing necessity for cancer researc
 
 The National Cancer Institute also has established a data science initiative to create and maintain data network that promotes accessibility and collaboration within the cancer research community. Read more about their data science initiative here: https://ccr.cancer.gov/news/horizons/article/big-data  
 
- - My Current Computational Skills:
+ - My Computational Skills & Experience:
    - Next-Generation Sequencing Data Analysis using R
    - Bulk RNA-Sequencing (DESeq2)
    - Single-cell RNA-Sequencing (Seurat)
